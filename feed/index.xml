@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>الأصلي</title>
+	<atom:link href="https://michrafsami.github.io/assli/feed/" rel="self" type="application/rss+xml" />
+	<link>https://michrafsami.github.io/assli</link>
+	<description>موقع الأصلي إظافة لعالم جديد</description>
+	<lastBuildDate>Fri, 27 Sep 2019 16:20:37 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.3</generator>
+	<item>
+		<title>أهلاً بالعالم !</title>
+		<link>https://michrafsami.github.io/assli/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/</link>
+				<comments>https://michrafsami.github.io/assli/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/#respond</comments>
+				<pubDate>Fri, 27 Sep 2019 16:20:37 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[غير مصنف]]></category>
+
+		<guid isPermaLink="false">https://michrafsami.github.io/assli/?p=1</guid>
+				<description><![CDATA[مرحباً بك في ووردبريس. هذه مقالتك الأولى. حررّها أو احذفها، ثم ابدأ النشر!]]></description>
+						<wfw:commentRss>https://michrafsami.github.io/assli/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

@@ -40,7 +40,7 @@ html {
 }
 
 body {
-	background: #FFF url(images/patterns/body-bg7.png);
+	background: #FFF url(https://michrafsami.github.io/assli/wp-content/themes/sahifa/images/patterns/body-bg7.png);
 	color: #333;
 	font-family: 'Droid Sans', Arial, Verdana, sans-serif;
 	font-size: 13px;
@@ -49,7 +49,7 @@ body {
 pre,
 code {
 	direction: ltr;
-	background: url(images/code-bg.png);
+	background: url(https://michrafsami.github.io/assli/wp-content/themes/sahifa/images/code-bg.png);
 	font: 11px/19px'andale mono', 'lucida console', monospace;
 	padding: 3px;
 	display: block;
@@ -362,11 +362,11 @@ a.bp-title-button:hover {
 
 @font-face {
 	font-family: 'BebasNeueRegular';
-	src: url('fonts/BebasNeue/BebasNeue-webfont.eot');
-	src: url('fonts/BebasNeue/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('fonts/BebasNeue/BebasNeue-webfont.woff') format('woff'),
-		 url('fonts/BebasNeue/BebasNeue-webfont.ttf') format('truetype'),
-		 url('fonts/BebasNeue/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+	src: url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.eot');
+	src: url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.eot#iefix') format('embedded-opentype'),
+		 url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.woff') format('woff'),
+		 url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.ttf') format('truetype'),
+		 url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/BebasNeue/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -389,12 +389,12 @@ a.bp-title-button:hover {
 /* Font Awesome */
 @font-face {
   font-family: 'FontAwesome';
-  src:  url('fonts/fontawesome/fontawesome-webfont.eot?v=4.6.3');
-  src:  url('fonts/fontawesome/fontawesome-webfont.eot?#iefix&v=4.6.3') format('embedded-opentype'),
-		url('fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.3') format('woff2'),
-		url('fonts/fontawesome/fontawesome-webfont.woff?v=4.6.3') format('woff'),
-		url('fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.3') format('truetype'),
-		url('fonts/fontawesome/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
+  src:  url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/fontawesome/fontawesome-webfont.eot?v=4.6.3');
+  src:  url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/fontawesome/fontawesome-webfont.eot#iefix&v=4.6.3') format('embedded-opentype'),
+		url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.3') format('woff2'),
+		url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/fontawesome/fontawesome-webfont.woff?v=4.6.3') format('woff'),
+		url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.3') format('truetype'),
+		url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/fontawesome/fontawesome-webfont.svg?v=4.6.3#fontawesomeregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -422,11 +422,11 @@ blockquote:before,
 
 @font-face {
   font-family: 'tiefontello';
-  src: url('fonts/tiefont/fontello.eot');
-  src: url('fonts/tiefont/fontello.eot?14434071#iefix') format('embedded-opentype'),
-	   url('fonts/tiefont/fontello.woff') format('woff'),
-	   url('fonts/tiefont/fontello.ttf') format('truetype'),
-	   url('fonts/tiefont/fontello.svg') format('svg');
+  src: url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/tiefont/fontello.eot');
+  src: url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/tiefont/fontello.eot?14434071#iefix') format('embedded-opentype'),
+	   url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/tiefont/fontello.woff') format('woff'),
+	   url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/tiefont/fontello.ttf') format('truetype'),
+	   url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/tiefont/fontello.svg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -434,7 +434,7 @@ blockquote:before,
 @media screen and (-webkit-min-device-pixel-ratio:0) {
 	@font-face {
 		font-family: 'tiefontello';
-		src: url('fonts/tiefont/fontello.svg') format('svg');
+		src: url('https://michrafsami.github.io/assli/wp-content/themes/sahifa/fonts/tiefont/fontello.svg') format('svg');
 	}
 }
 
@@ -479,18 +479,18 @@ blockquote:before,
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
 	#main-nav  ul li.menu-item-home a{
-		background-image: url(images/home@2x.png)!important;
+		background-image: url(https://michrafsami.github.io/assli/wp-content/themes/sahifa/images/home@2x.png)!important;
 		background-size: 30px 78px;
 	}
 
 	span.stars-large,
 	span.stars-large span {
-		background-image:url(images/stars-large@2x.png);
+		background-image:url(https://michrafsami.github.io/assli/wp-content/themes/sahifa/images/stars-large@2x.png);
 		background-size: 98px 44px;
 	}
 	span.stars-small,
 	span.stars-small span {
-		background-image:url(images/stars-small@2x.png);
+		background-image:url(https://michrafsami.github.io/assli/wp-content/themes/sahifa/images/stars-small@2x.png);
 		background-size: 54px 30px;
 	}
 }
@@ -1332,7 +1332,7 @@ blockquote:before,
 /* Home Icon */
 
 #main-nav ul li.menu-item-home a {
-	background-image: url(images/home.png)!important;
+	background-image: url(https://michrafsami.github.io/assli/wp-content/themes/sahifa/images/home.png)!important;
 	background-repeat: no-repeat!important;
 	background-position: center -44px;
 	text-indent: -9999px;
@@ -1915,7 +1915,7 @@ li.first-news p.post-meta,
 }
 
 .stripe-line {
-	background: url(images/stripe.png);
+	background: url(https://michrafsami.github.io/assli/wp-content/themes/sahifa/images/stripe.png);
 	height: 12px;
 	overflow: hidden;
 	margin-top: 5px;
@@ -7333,7 +7333,7 @@ h3.toggle-head-close i {
 }
 
 .ilightbox-closedhand * {
-	cursor: url(css/ilightbox/closedhand.cur),default !important;
+	cursor: url(https://michrafsami.github.io/assli/wp-content/themes/sahifa/css/ilightbox/closedhand.cur),default !important;
 }
 
 .ilightbox-overlay {
