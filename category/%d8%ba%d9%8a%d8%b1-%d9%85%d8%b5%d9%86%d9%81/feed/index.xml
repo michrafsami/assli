@@ -12,7 +12,7 @@
 	<atom:link href="https://michrafsami.github.io/assli/category/%D8%BA%D9%8A%D8%B1-%D9%85%D8%B5%D9%86%D9%81/feed/" rel="self" type="application/rss+xml" />
 	<link>https://michrafsami.github.io/assli</link>
 	<description>موقع الأصلي إظافة لعالم جديد</description>
-	<lastBuildDate>Fri, 27 Sep 2019 16:20:37 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Sep 2019 23:41:38 +0000</lastBuildDate>
 	<language>ar</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,19 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.3</generator>
 	<item>
+		<title>article</title>
+		<link>https://michrafsami.github.io/assli/article/</link>
+				<comments>https://michrafsami.github.io/assli/article/#respond</comments>
+				<pubDate>Fri, 27 Sep 2019 23:41:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[غير مصنف]]></category>
+
+		<guid isPermaLink="false">https://michrafsami.github.io/assli/?p=123</guid>
+				<description><![CDATA[content article]]></description>
+						<wfw:commentRss>https://michrafsami.github.io/assli/article/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
 		<title>أهلاً بالعالم !</title>
 		<link>https://michrafsami.github.io/assli/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/</link>
 				<comments>https://michrafsami.github.io/assli/%d8%a3%d9%87%d9%84%d8%a7-%d8%a8%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85/#respond</comments>
